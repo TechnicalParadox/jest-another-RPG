@@ -1,0 +1,23 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "RPG Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechnicalParadox/jest-another-RPG.git"
+  },
+  "keywords": [
+    "rpg",
+    "game"
+  ],
+  "author": "Giamo Lao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TechnicalParadox/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/TechnicalParadox/jest-another-RPG#readme"
+}
